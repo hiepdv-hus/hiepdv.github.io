@@ -4,7 +4,8 @@ html {
 header nav.navbar.navbar-expand-md.navbar-light.bg-light.sticky-top {
 	background-color: #fff !important;
 	border-bottom: 2px solid #ececec !important;
-	padding: 10px;
+    padding: 10px;  
+    max-width: 1280px;
 }
 header div#gnav-main-container {
 	display: flex !important;
