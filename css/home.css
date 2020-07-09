@@ -389,7 +389,7 @@ input[type=text].icl-TextInput-control {
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  .
+  
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -609,7 +609,6 @@ a.icl-Button.icl-Button--secondary.icl-Button--md.icl-Button--block.icl-Button--
     height: 122px;
     width: 68px;
     position: absolute;
-    background-image: 	
 }
 .v1_block .job-alert {
     padding: 40px 80px 60px 80px;
