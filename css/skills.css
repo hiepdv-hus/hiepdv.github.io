@@ -130,13 +130,20 @@
     flex-direction: column;
 }
 .career-advice__charts .simple-chart:first-child {
-    margin-right: 2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
     margin-bottom: 0;
 }
 .career-advice__charts .simple-chart:first-child {
     margin-bottom: 2rem;
     padding-left: 0;
     padding-right: 0;
+}
+.simple-chart.col-md-6 {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
 }
 .career-advice__charts .simple-chart {
     flex: 1;
